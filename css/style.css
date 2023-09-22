@@ -95,7 +95,7 @@ img {
   .brand-repair__tablet {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    height: 172px;
+    height: 169px;
     overflow: hidden;
     gap: 16px 24px;
     margin-bottom: 10px;
@@ -148,6 +148,6 @@ img {
     /* height: 165px; */
     grid-template-columns: repeat(4, 1fr);
     gap: 16px 32px;
-    margin-bottom: 24px;
+    margin-bottom: 28px;
   }
 }
