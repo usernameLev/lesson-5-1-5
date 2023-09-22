@@ -21,7 +21,7 @@ const windowWidth = window.innerWidth;
 
 btnShowMore.addEventListener('click', () => {
   if (showBrands.classList.contains('expanded')) {
-    showBrands.style.height = '165px';
+    showBrands.style.height = '171px';
     btnShowMore.textContent = 'Показать все';
     btnShowMore.classList.remove('rotate');
     showBrands.classList.remove('expanded');
