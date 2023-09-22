@@ -53,7 +53,7 @@ img {
 
 .brand-repair__slide {
   padding-left: 16px;
-  padding-bottom: 36px;
+  padding-bottom: 48px;
 }
 
 .brand-repair__pagination.swiper-pagination-bullets .swiper-pagination-bullet {
@@ -98,7 +98,7 @@ img {
     height: 165px;
     overflow: hidden;
     gap: 16px 24px;
-    margin-bottom: 16px;
+    margin-bottom: 10px;
     transition: all 0.3s ease 0s;
   }
 
