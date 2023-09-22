@@ -142,7 +142,6 @@ img {
 @media (min-width: 1120px) {
   .container {
     max-width: 1120px;
-    background-color: rgb(6, 44, 235);
   }
 
   .brand-repair__tablet {
